@@ -27,7 +27,7 @@ const data = [
     image: IMG4,
     title: "Netflix Clone",
     github: "https://github.com/Lord-Constantine/Netflix-clone",
-    demo: "https://netflix-clone-smoky-five.vercel.app",
+    demo: "https://netflix-clone-8dvnn98q1-lord-constantine.vercel.app/",
   },
   {
     id: 5,
@@ -70,11 +70,7 @@ const Portfolio = () => {
                 <a href={github} className="btn" target="_blank">
                   Github
                 </a>
-                <a
-                  href={demo}
-                  className="btn btn-primary"
-                  target="_blank"
-                >
+                <a href={demo} className="btn btn-primary" target="_blank">
                   Live Demo
                 </a>
               </div>
